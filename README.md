@@ -5,3 +5,7 @@
 
 Testing GitHub commit status settings.
 ![image](https://user-images.githubusercontent.com/42821602/57597652-1fc80800-7505-11e9-85f7-d0cef173dc70.png)
+
+## Jenkins Tutorial
+
+![Jenkins 101](https://user-images.githubusercontent.com/42821602/60149419-7aea4d00-9789-11e9-9714-fee9e3470120.png)
